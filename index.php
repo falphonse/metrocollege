@@ -173,7 +173,7 @@
                         <li>Product licence management</li>
                         <li>Vendor management</li>
                         <li>Cloud management</li>
-				<li>v8_2</li>
+				<li>v8_2_1</li>
 
                     </ul>
                 </div>
