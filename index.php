@@ -174,7 +174,6 @@
                         <li>Vendor management</li>
                         <li>Cloud management</li>
 				<li>v8_2</li>
-                <li>git hub test</li>
 
                     </ul>
                 </div>
